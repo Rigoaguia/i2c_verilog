@@ -1,0 +1,30 @@
+# Loading project i2c
+# Warning: Cannot write compile report file: /home/ricardo/PROJECT_HUGO/src/i2c.cr.mti
+# reading /opt/intelFPGA_lite/18.1/modelsim_ase/linuxaloem/../modelsim.ini
+# Loading project encoder_hamming
+# Compile of encoder_hamming.v was successful.
+# Compile of tb_encoder.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.tb_encoder
+# vsim work.tb_encoder 
+# Start time: 00:24:37 on Jun 23,2019
+# Loading work.tb_encoder
+# Loading work.encoder_hamming
+add wave -position insertpoint sim:/tb_encoder/*
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+run
+run
+run
+run
+run
+run
+run
+run
+run
+# ** Note: $finish    : /home/ricardo/PROJECT_HUGO/codigo_hamming/encoder/tb_encoder.v(26)
+#    Time: 1 ns  Iteration: 0  Instance: /tb_encoder
+# 1
+# Break in Module tb_encoder at /home/ricardo/PROJECT_HUGO/codigo_hamming/encoder/tb_encoder.v line 26
+# End time: 00:27:51 on Jun 23,2019, Elapsed time: 0:03:14
+# Errors: 0, Warnings: 1

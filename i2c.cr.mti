@@ -1,0 +1,22 @@
+/home/ricardo/PROJECT_HUGO/src/tb_i2c.v {1 {vlog -work work -stats=none /home/ricardo/PROJECT_HUGO/src/tb_i2c.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_i2c
+
+Top level modules:
+	tb_i2c
+
+} {} {}} /home/ricardo/PROJECT_HUGO/src/i2c_slave.v {1 {vlog -work work -stats=none /home/ricardo/PROJECT_HUGO/src/i2c_slave.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module i2c_slave
+
+Top level modules:
+	i2c_slave
+
+} {} {}} /home/ricardo/PROJECT_HUGO/src/i2c_master.v {1 {vlog -work work -stats=none /home/ricardo/PROJECT_HUGO/src/i2c_master.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module i2c_master
+
+Top level modules:
+	i2c_master
+
+} {} {}}

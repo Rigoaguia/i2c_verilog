@@ -1,0 +1,73 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/ricardo/PROJECT_HUGO/src
+vi2c_master
+Z1 !s110 1561002063
+!i10b 1
+!s100 NhL1EfoZnLdGWEoN@XAao3
+Ij8]gJ8mC>[Fa>d55z7Uh10
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1561001916
+8/home/ricardo/PROJECT_HUGO/src/i2c_master.v
+F/home/ricardo/PROJECT_HUGO/src/i2c_master.v
+L0 43
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1561002063.000000
+!s107 /home/ricardo/PROJECT_HUGO/src/i2c_master.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/ricardo/PROJECT_HUGO/src/i2c_master.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vi2c_slave
+R1
+!i10b 1
+!s100 C?f6jT2X>4M[UZjB5VGlc2
+IN[Me9c:`PhQQo4DY03Km]1
+R2
+R0
+w1561001987
+8/home/ricardo/PROJECT_HUGO/src/i2c_slave.v
+F/home/ricardo/PROJECT_HUGO/src/i2c_slave.v
+L0 35
+R3
+r1
+!s85 0
+31
+R4
+!s107 /home/ricardo/PROJECT_HUGO/src/i2c_slave.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/ricardo/PROJECT_HUGO/src/i2c_slave.v|
+!i113 1
+R5
+R6
+vtb_i2c
+R1
+!i10b 1
+!s100 o?`6jiDT@[@^AH?V[1UNf0
+IA6Pej@cE]OXkZXI_0Uo653
+R2
+R0
+w1561001998
+8/home/ricardo/PROJECT_HUGO/src/tb_i2c.v
+F/home/ricardo/PROJECT_HUGO/src/tb_i2c.v
+L0 5
+R3
+r1
+!s85 0
+31
+R4
+!s107 /home/ricardo/PROJECT_HUGO/src/tb_i2c.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/ricardo/PROJECT_HUGO/src/tb_i2c.v|
+!i113 1
+R5
+R6
